@@ -1,0 +1,341 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Fira Mono', Arial, Helvetica, sans-serif;
+  background: url("https://wallpaperaccess.com/full/144511.png") center / cover fixed;
+}
+
+
+h1 {
+    margin-right: 150px;
+    margin-left: 50px;
+    color:#c056a0;
+    margin-bottom: 10px;
+    font-family: 'Sansita Swashed', cursive;
+    
+  }
+
+  .about-us {
+    background: #fcebf7;
+    margin-top: 50px;
+    padding: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border: 2px solid #806596 ;
+  }
+
+  .about-us p {
+    margin: 40px 20px;
+
+  }
+
+  .newsletter {
+    margin-left: 60px;
+    margin-top: 50px;
+    margin-right: 500px;
+
+  }
+
+
+  .recipes {
+    margin-top: 100px;
+    background: #fcebf7 ;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+    border: 2px solid #806596 ;
+    margin-left: 10px;
+    padding-left: 40px;
+    margin-right: 10px;
+    padding-right: 40px;
+  }
+
+
+.recipes h1 {
+  margin-bottom: 30px;
+  margin-left: 0%;
+  }
+
+.link-granola {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.link-cupcake {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.link-cookie {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
+  .bottom-page {
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    border-top: 3px solid #806596;
+    background: url("https://img5.goodfon.com/wallpaper/nbig/3/36/food-party-cake-bakery-chocolate-black-cupcakes-cup-sweet-de.jpg") center / cover fixed;
+
+  }
+
+  .bottom-page p {
+    background-color: pink;
+    width: 30%;
+    margin-left: 500px;
+    padding: 20px;
+    border: 2px solid #806596 ;
+  }
+  
+ 
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    
+  }
+
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-instagram {
+  background: #f54298;
+  color: white;
+}
+
+.button-top {
+  text-align: center;
+
+
+}
+
+
+.heading-recipe {
+  padding: 100px;
+  background: url("https://img5.goodfon.com/wallpaper/nbig/f/14/osen-listia-pirog-tykva-doska-koritsa-cake-vypechka-autumn-l.jpg") center / cover fixed;
+  image-orientation: flip;
+  text-align: center;
+  font-family: 'Sansita Swashed', cursive;
+}
+
+.heading-recipe h1 {
+  font-size: 50px;
+  text-shadow: 2px 2px 5px #6f2e85;
+  text-align: center;
+  font-family: 'Sansita Swashed', cursive;
+}
+
+.heading-cupcakes h1 {
+  font-size: 50px;
+  text-shadow: 2px 2px 5px #6f2e85;
+  text-align: center;
+  font-family: 'Sansita Swashed', cursive;
+}
+
+.heading-cookies h1 {
+  font-size: 50px;
+  text-shadow: 2px 2px 5px #6f2e85;
+  text-align: center;
+  font-family: 'Sansita Swashed', cursive;
+}
+
+.heading-granola h1 {
+  font-size: 50px;
+  text-shadow: 2px 2px 5px #6f2e85;
+  text-align: center;
+  font-family: 'Sansita Swashed', cursive;
+}
+
+.heading-tips h1 {
+  font-size: 50px;
+  text-shadow: 2px 2px 5px #6f2e85;
+  text-align: center;
+  font-family: 'Sansita Swashed', cursive;
+}
+
+.all-recipes {
+  display: inline-block;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
+
+
+@media only screen and (max-width: 600px) {
+  /* Your styles here */
+}
+
+
+.heading-cupcakes {
+  padding: 100px;
+  background: url("https://i1.wp.com/www.hdwallpapers.cc/wp-content/uploads/wallpapers/1427/cupcake.jpg?fit=3413%2C1920&ssl=1") center / cover fixed;
+  image-orientation: flip;
+  text-align: center;
+  font-family: 'Sansita Swashed', cursive;
+  border: 2px solid #806596;
+}
+
+
+.cupcake-recipe {
+  margin: 30px 40px;
+
+}
+
+
+.heading-cookies {
+  padding: 100px;
+  background: url("https://img4.mashed.com/img/gallery/national-cookie-day-2020-where-to-get-the-best-freebies-and-deals/l-intro-1607021981.jpg") center / cover fixed;
+  image-orientation: flip;
+  text-align: center;
+  font-family: 'Sansita Swashed', cursive;
+  border: 2px solid #806596;
+}
+
+
+.heading-granola {
+  padding: 100px;
+  background: url("https://c1.wallpaperflare.com/preview/300/223/716/healthy-candy-homemade-fit.jpg") center / cover fixed;
+  image-orientation: flip;
+  text-align: center;
+  font-family: 'Sansita Swashed', cursive;
+  border: 2px solid #806596;
+}
+
+
+.row1 {
+  margin-bottom: 30px;
+  
+}
+
+.card:hover {
+  border: 5px solid #d48dd9;
+  background-color: #e6bad5;
+  opacity: 100%;
+}
+
+
+.carousel-item {
+  height: 350px;
+}
+
+.carousel-item h5 {
+  background-color: #d483be;
+  padding: 15px;
+  margin-left: 200px;
+  margin-right: 200px;
+  border-bottom: 3px solid #8a4a78;
+}
+
+.recipe-cupcake1 {
+  background: #fcebf7;
+  border: 1px solid #806596;
+  margin: 20px 30px;
+  padding: 20px;
+}
+
+.recipe-cupcake2 {
+  background: #fcebf7;
+  border: 1px solid #806596;
+  margin: 20px 30px;
+  padding: 20px;
+}
+
+.recipe-cookies2 {
+  background: #fcebf7;
+  border: 1px solid #806596;
+  margin: 20px 30px;
+  padding: 20px;
+}
+
+.recipe-cookies1 {
+  background: #fcebf7;
+  border: 1px solid #806596;
+  margin: 20px 30px;
+  padding: 20px;
+}
+
+.recipe-cookies1 img {
+  height: 250px;
+}
+
+.recipe-cookies2 img {
+  height: 300px;
+}
+
+
+.recipe-granola1 {
+  background: #fcebf7;
+  border: 1px solid #806596;
+  margin: 20px 30px;
+  padding: 20px;
+}
+
+.recipe-granola2 {
+  background: #fcebf7;
+  border: 1px solid #806596;
+  margin: 20px 30px;
+  padding: 20px;
+}
+
+.recipe-form {
+  margin-left: 30px;
+  margin-bottom: 50px;
+}
+
+
+.heading-tips {
+  padding: 100px;
+  background: url("https://img4.goodfon.com/wallpaper/nbig/c/9e/donuts-coffee-wood-ponchiki-chocalate.jpg") center / cover fixed;
+  image-orientation: flip;
+  text-align: center;
+  font-family: 'Sansita Swashed', cursive;
+  border: 2px solid #806596;
+  
+}
+
+.tip1 {
+  
+  background-color: #fcebf7;;
+  width: 50%;
+  padding: 30px;
+  border: 2px solid #806596;
+}
+
+.tip2 {
+  background-color: #fcebf7;;
+  width: 50%;
+  padding: 30px;
+  margin-left: 675px;
+  border: 2px solid #806596;
+  
+}
+
+.tip3 {
+  background-color: #fcebf7;;
+  width: 50%;
+  padding: 30px;
+  border: 2px solid #806596;
+  margin-bottom: 30px;
+}
